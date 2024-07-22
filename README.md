@@ -16,7 +16,7 @@
 
 
 ## 모델 (weight)
-- 모델은 https://drive.google.com/file/d/1XCKqOxJtTXLCKreuiyGFB8_6kWGBR05M/view?usp=sharing 에서 다운로드 가능
+- 모델은 https://drive.google.com/file/d/19tb2Yry6X83Ylw9antHP_0BC_pfWUjqV/view?usp=sharing 에서 다운로드 가능
 - data, deep_fake_voice_detection 폴더와 같은 계층에 압축해제 (model 폴더)
 
 
