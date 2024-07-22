@@ -1,0 +1,3 @@
+[submodule "resemble_enhance"]
+	path = resemble_enhance
+	url = git@github.com:illuminoplanet/resemble-enhance.git
