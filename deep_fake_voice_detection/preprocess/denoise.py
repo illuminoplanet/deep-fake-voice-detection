@@ -4,7 +4,7 @@ import torch
 import torchaudio
 import soundfile as sf
 from tqdm import tqdm
-from resemble_enhance.enhancer import inference
+from resemble_enhance.resemble_enhance.enhancer import inference
 
 
 def denoise(input_dir, output_dir):

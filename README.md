@@ -3,7 +3,12 @@
 - Ubuntu 22.04.4 LTS
 
 - 라이브러리 버전은 requirements.txt 참조
-- pip install -r requirements.txt 이후에 pip install -e . 로 본 프로젝트 설치 (setup.py가 있는 디렉토리에서 실행)
+- conda install python==3.12.4 으로 파이썬 설치 후
+- pip install -r pre_requirements.txt, pip install -r requirements 이후에 pip install -e . 로 본 프로젝트 설치 (setup.py가 있는 디렉토리에서 실행)
+
+
+## 실행 방법
+inferece.py 실행
 
 
 ## 데이터 
