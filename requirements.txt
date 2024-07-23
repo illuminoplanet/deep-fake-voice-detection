@@ -1,32 +1,21 @@
 accelerate==0.31.0
 aiofiles==23.2.1
-aiohttp @ file:///croot/aiohttp_1715108769648/work
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 alembic==1.13.2
 altair==5.3.0
 annotated-types==0.7.0
 antlr4-python3-runtime==4.9.3
 anyio==4.4.0
 asteroid-filterbanks==0.4.0
-attrs @ file:///work/perseverance-python-buildout/croot/attrs_1698845858439/work
 audiomentations==0.36.0
 audioread==3.0.1
-Bottleneck @ file:///croot/bottleneck_1709069899917/work
-Brotli @ file:///croot/brotli-split_1714483155106/work
-brouhaha @ https://github.com/marianne-m/brouhaha-vad/archive/main.zip#sha256=3e920f66726a95dd09249a056051732dce44d08e3c2005f20aa9e9b84455376d
 celluloid==0.2.0
-certifi @ file:///croot/certifi_1717618050233/work/certifi
 cffi==1.16.0
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click @ file:///work/perseverance-python-buildout/croot/click_1698845879718/work
 colorlog==6.8.2
 contourpy==1.2.1
 cycler==0.12.1
 Cython==3.0.10
-datasets @ file:///croot/datasets_1716911606380/work
 decorator==5.1.1
 deepspeed==0.14.4
-dill @ file:///croot/dill_1715094664823/work
 dnspython==2.6.1
 docker-pycreds==0.4.0
 docopt==0.6.2
@@ -36,11 +25,8 @@ evaluate==0.4.2
 fastapi==0.111.0
 fastapi-cli==0.0.4
 ffmpy==0.3.2
-filelock @ file:///work/perseverance-python-buildout/croot/filelock_1701733993137/work
 flash-attn==2.5.9.post1
 fonttools==4.53.0
-frozenlist @ file:///work/perseverance-python-buildout/croot/frozenlist_1698886842990/work
-fsspec @ file:///croot/fsspec_1714461537038/work
 future==1.0.0
 gitdb==4.0.11
 GitPython==3.1.43
@@ -54,11 +40,7 @@ httptools==0.6.1
 httpx==0.27.0
 huggingface-hub==0.23.4
 HyperPyYAML==1.2.2
-idna @ file:///croot/idna_1714398848350/work
-importlib-metadata @ file:///croot/importlib_metadata-suite_1704813515092/work
 importlib_resources==6.4.0
-Jinja2 @ file:///croot/jinja2_1716993405101/work
-joblib @ file:///croot/joblib_1718217211762/work
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
 julius==0.2.7
@@ -71,28 +53,16 @@ lightning-utilities==0.11.3.post0
 llvmlite==0.43.0
 Mako==1.3.5
 markdown-it-py==3.0.0
-MarkupSafe @ file:///work/perseverance-python-buildout/croot/markupsafe_1707342994941/work
 matplotlib==3.9.0
 mdurl==0.1.2
-mkl-fft @ file:///work/perseverance-python-buildout/croot/mkl_fft_1698845673361/work
-mkl-random @ file:///work/perseverance-python-buildout/croot/mkl_random_1698845720894/work
 mkl-service==2.4.0
-mpmath @ file:///work/perseverance-python-buildout/croot/mpmath_1698864994882/work
 msgpack==1.0.8
-multidict @ file:///croot/multidict_1701096859099/work
-multiprocess @ file:///work/perseverance-python-buildout/croot/multiprocess_1698870874259/work
-networkx @ file:///croot/networkx_1717597493534/work
 ninja==1.11.1.1
 numba==0.60.0
-numexpr @ file:///work/perseverance-python-buildout/croot/numexpr_1698871031164/work
-numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp312-cp312-linux_x86_64.whl#sha256=1d700f51d8b4fa684d858c9e3b56b1656bc5c82b6b79ff08d4e3b491c430059f
 nvidia-ml-py==12.555.43
 omegaconf==2.3.0
 optuna==3.6.1
 orjson==3.10.5
-packaging @ file:///croot/packaging_1710807400464/work
-pandas @ file:///croot/pandas_1718308974269/work/dist/pandas-2.2.2-cp312-cp312-linux_x86_64.whl#sha256=92c518f7e09edd50b5caa5862636c51d6a29391803f3ada62f68aa52f27d8f92
-pillow @ file:///croot/pillow_1714398848491/work
 platformdirs==4.2.2
 plotly==5.7.0
 pooch==1.8.2
@@ -106,7 +76,6 @@ pyannote.core==5.0.0
 pyannote.database==5.1.0
 pyannote.metrics==3.2.1
 pyannote.pipeline==3.0.1
-pyarrow @ file:///croot/pyarrow_1707330824290/work/python
 pybind11==2.13.1
 pycparser==2.22
 pydantic==2.8.0
@@ -116,25 +85,17 @@ Pygments==2.18.0
 pyloudnorm==0.1.1
 pyparsing==3.1.2
 pyroomacoustics==0.7.5
-PySocks @ file:///work/perseverance-python-buildout/croot/pysocks_1698845478203/work
-python-dateutil @ file:///croot/python-dateutil_1716495738603/work
 python-dotenv==1.0.1
 python-multipart==0.0.9
 pytorch-lightning==2.3.3
 pytorch-metric-learning==2.5.0
-pytz @ file:///croot/pytz_1713974312559/work
-PyYAML @ file:///work/perseverance-python-buildout/croot/pyyaml_1698849903511/work
 referencing==0.35.1
-regex @ file:///work/perseverance-python-buildout/croot/regex_1698863574928/work
-requests @ file:///croot/requests_1716902831423/work
 resampy==0.4.3
--e git+ssh://git@github.com/illuminoplanet/resemble-enhance.git@84b3150db7548768b106231df6a05b7c2fe1d6d7#egg=resemble_enhance&subdirectory=../../resemble-enhance
 rich==13.7.1
 rpds-py==0.18.1
 ruamel.yaml==0.18.6
 ruamel.yaml.clib==0.2.8
 ruff==0.5.0
-sacremoses @ file:///tmp/build/80754af9/sacremoses_1633107328213/work
 safetensors==0.4.3
 scikit-learn==1.5.0
 scipy==1.12.0
@@ -146,7 +107,6 @@ sentry-sdk==2.7.1
 setproctitle==1.3.3
 setuptools==69.5.1
 shellingham==1.5.4
-six @ file:///tmp/build/80754af9/six_1644875935023/work
 smmap==5.0.1
 sniffio==1.3.1
 sortedcontainers==2.4.0
@@ -155,7 +115,6 @@ soxr==0.3.7
 speechbrain==1.0.0
 SQLAlchemy==2.0.31
 starlette==0.37.2
-sympy @ file:///croot/sympy_1701397643339/work
 tabulate==0.9.0
 tenacity==8.5.0
 tensorboardX==2.6.2.2
@@ -169,13 +128,9 @@ torch-pitch-shift==1.2.4
 torchaudio==2.3.1
 torchmetrics==1.4.0.post0
 torchvision==0.18.1
-tqdm @ file:///croot/tqdm_1716395931952/work
 transformers==4.42.3
 typer==0.12.3
-typing_extensions @ file:///croot/typing_extensions_1715268824938/work
-tzdata @ file:///croot/python-tzdata_1690578112552/work
 ujson==5.10.0
-urllib3 @ file:///croot/urllib3_1718912636303/work
 uvicorn==0.30.1
 uvloop==0.19.0
 v==1
@@ -183,6 +138,3 @@ wandb==0.17.3
 watchfiles==0.22.0
 websockets==11.0.3
 wheel==0.43.0
-xxhash @ file:///work/perseverance-python-buildout/croot/python-xxhash_1698900334985/work
-yarl @ file:///croot/yarl_1701105127787/work
-zipp @ file:///work/perseverance-python-buildout/croot/zipp_1707367835224/work
