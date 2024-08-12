@@ -10,7 +10,7 @@ def diarize(input_dir, output_dir):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     pipeline = Pipeline.from_pretrained(
         "pyannote/speaker-diarization-3.1",
-        use_auth_token="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",
+        use_auth_token="your_token",
     )
     pipeline.to(device)
 
